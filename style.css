@@ -70,7 +70,7 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 {
 	color: black;
 }
-.input_div_message_page #msg
+.input_div_message_page #Message
 {
 	width: 80%;
 }
